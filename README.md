@@ -36,7 +36,12 @@ Figure 02  Encoder 8 * 3
 
 **Procedure**
 
-/* write all the steps invloved */
+1. Type the program in Quartus software.
+2. Compile and run the program.
+3. Generate the RTL schematic and save the logic diagram.
+4. Create nodes for inputs and outputs to generate the timing diagram.
+5. For different input combinations generate the timing diagram.
+
 
 **PROGRAM**
 
@@ -59,8 +64,9 @@ Developed by:KAMLESH.Y RegisterNumber:24003690
 ![Screenshot 2024-11-18 151935](https://github.com/user-attachments/assets/06e1b533-423e-4cd3-ab3d-9ae485fad6d8)
 
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![Screenshot 2024-11-18 164029](https://github.com/user-attachments/assets/8a4ffee7-96a8-4c94-80f5-2d857613cc02)
+**TIMING DIAGRAM FOR Encoder 8 To 3 in Dataflow Modelling**
+
+![image](https://github.com/user-attachments/assets/430cfa9c-434f-4c77-9684-4ac6f2f1a799)
 
 
 
