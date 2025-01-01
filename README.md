@@ -1,4 +1,4 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+### ENCODER 8 TO 3 DATAFLOW Modelling
 
 **AIM:**
 
@@ -61,6 +61,7 @@ Developed by:KAMLESH.Y RegisterNumber:24003690
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![Screenshot 2024-11-18 151935](https://github.com/user-attachments/assets/06e1b533-423e-4cd3-ab3d-9ae485fad6d8)
 
 
